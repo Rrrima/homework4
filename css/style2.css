@@ -1,0 +1,7 @@
+.container{
+	display: grid;
+	grid-template-columns: 100px 500px 100px
+}
+.about{
+	grid-column-start: 2
+}
